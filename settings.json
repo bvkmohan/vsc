@@ -1,0 +1,17 @@
+{
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "workbench.colorTheme": "Monokai",
+    "workbench.iconTheme": "ayu",
+    "workbench.settings.editor": "json",
+    "workbench.settings.openDefaultSettings": true,
+    "python.pythonPath": "C:\\Users\\{{ XYZ }}\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
+    "editor.fontSize": 14,
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true,
+    "code-runner.executorMap": {
+        "python": "$pythonPath -u $fullFileName"
+    },
+    "code-runner.clearPreviousOutput": true,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe"
+}
